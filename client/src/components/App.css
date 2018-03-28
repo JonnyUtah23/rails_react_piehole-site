@@ -1,0 +1,17 @@
+.masthead {
+    background-image: url('../img/pie-hole.jpeg') !important;
+    background-size: cover !important;
+}
+.spacing {
+    padding-top: 10px !important;
+}
+.active-image {
+    content: url('../img/pie-toss.jpeg') !important;
+    height: 120% !important;
+    width: 120% !important;
+ }
+.mapstyles {
+    text-align: center !important;
+    padding-top: 45px;
+}
+
